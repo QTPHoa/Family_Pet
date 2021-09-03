@@ -1,1 +1,2 @@
-<?php include("tintuc.html");
+<?php include("Tintuc.html");
+<?php include("Dangky.html");
