@@ -69,18 +69,17 @@ body {
   color: white;
 }
 
-
 /* Tạo hai cột không bằng nhau, float cạnh nhau */
 /* Cột trái */
 .leftcolumn {
   float: left;
-  width: 75%;
+  width: 50%;
 }
 
 /* Cột phải */
 .rightcolumn {
   float: left;
-  width: 25%;
+  width: 50%;
   background-color: #e9d8f4;
   padding-left: 20px;
 }
@@ -92,8 +91,14 @@ body {
   padding: 20px;
 }
 
+.fakeimg1 {
+  background-color: #FFCC9930;
+  width: 100%;
+  padding: 20px;
+}
+
 .fakeimg img{
-  background-color: #baa1cc;
+  background-color: white;
   width: 100%;
   padding: 20px;
 }
@@ -103,6 +108,7 @@ body {
   background-color: white;
   padding: 20px;
   margin-top: 20px;
+  margin-bottom: 25px; /* cách lề dưới*/
 }
 .card a {
   color: #000000;

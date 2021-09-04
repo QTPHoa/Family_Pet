@@ -1,1 +1,1 @@
-<?php include("Dangky.html");
+<?php include("hamster.html");
